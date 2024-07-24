@@ -1,7 +1,4 @@
 ## Gustavo Garcia Lira 1°B
-
-![](https://tenor.com/pt-BR/view/gears-gif-22029835)
-
 <!--
 **GustavoGarciaLira/GustavoGarciaLira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://tenor.com/pt-BR/view/gears-gif-22029835)
