@@ -1,4 +1,4 @@
-## Gustavo Garcia Lira 1°B
+## Gustavo Garcia Lira
 <!--
 **GustavoGarciaLira/GustavoGarciaLira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
